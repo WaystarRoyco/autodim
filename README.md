@@ -19,6 +19,7 @@ A Python utility that automatically adjusts screen brightness and color temperat
 To run the script:
 
 ```chmod +x autodim.py```
+
 ```./autodimv0.1.py```
 
 ## Configuration
