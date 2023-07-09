@@ -18,6 +18,7 @@ sudo apt install python3 python3-opencv python3-numpy redshift
 To run the script:
 
 chmod +x autodimv0.1.py
+
 ./autodimv0.1.py
 
 ## Configuration
