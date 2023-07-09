@@ -1,2 +1,2 @@
 # autodim
-A python utility that automatically dims a display or displays based on ambient brightness 
+A python utility that automatically matches a display (or displays) brightness level to ambient brightness using an integrated or perpherial camera.
