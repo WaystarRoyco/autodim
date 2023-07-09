@@ -20,7 +20,7 @@ To run the script:
 
 ```chmod +x autodim.py```
 
-```./autodimv0.1.py```
+```./autodim.py```
 
 ## Configuration
 
