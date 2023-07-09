@@ -12,7 +12,8 @@ autodim is a Python script that automatically adjusts the screen brightness and 
 ## Installation
 
 sudo apt update
-sudo apt install python3-opencv python3-numpy redshift
+
+sudo apt install python3 python3-opencv python3-numpy redshift
 
 To run the script:
 
