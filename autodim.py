@@ -17,6 +17,7 @@ brightness_min = 0.1
 brightness_max = 1
 
 # Define the brightness threshold for ambient light (0 to 255)                                              brightness_threshold = 128
+# brightness_threshold =
 
 # Define the time interval for checking ambient light (in seconds)
 time_interval = 10
