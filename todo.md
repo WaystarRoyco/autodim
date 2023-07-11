@@ -1,9 +1,8 @@
-# integrate color temperature code
+- integrate color temperature code
 
-# fix brightness_threshold variable (currently hardcoded)
+- fix brightness_threshold variable (currently hardcoded)
 
-# add "ideal for linux based media pc's" in readme
+- add "ideal for linux based media pc's" in readme
 
-# add instructions for camera positioning
-
+- add instructions for camera positioning
 
