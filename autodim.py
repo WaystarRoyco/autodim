@@ -12,7 +12,8 @@ camera_index = 0
 # Define the redshift command template
 redshift_command = "redshift -P -O 4100 -b {}"
 
-# Define the brightness range for redshift (0.1 to 1) brightness_min = 0.1
+# Define the brightness range for redshift (0.1 to 1) 
+brightness_min = 0.1
 brightness_max = 1
 
 # Define the brightness threshold for ambient light (0 to 255)                                              brightness_threshold = 128
