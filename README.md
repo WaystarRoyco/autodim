@@ -1,6 +1,6 @@
 # autodim
 
-A Python utility that automatically adjusts screen brightness and color temperature based on the ambient light detected by a webcam.
+A Python utility that automatically adjusts screen brightness and color temperature based ambient brightness detected by a camera. Ideal for Linux media PCs.
 
 ## Dependencies
 
