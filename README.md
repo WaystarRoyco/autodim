@@ -1,6 +1,6 @@
 # autodim
 
-A Python utility that automatically adjusts screen brightness and color temperature based ambient brightness detected by a camera. Ideal for Linux media PCs.
+A Python utility for Linux media PCs that adjusts screen brightness and color temperature using a camera.
 
 ## Dependencies
 
@@ -23,6 +23,10 @@ To run the script:
 ```./autodim.py```
 
 ## Configuration
+
+Camera position:
+
+For ideal ambient light capture an external usb camera facing behind or above the veiwing screen(s). This has the added benfit of reducing privacy concerns with activating the camera
 
 You can change the following parameters in the script:
 
